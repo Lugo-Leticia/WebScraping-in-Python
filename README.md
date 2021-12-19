@@ -1,1 +1,1 @@
-The purpose of this project is to scrape a website using Beautiful soup and conver it to a CVS file.
+This project aims to scrape a website using Beautiful soup and convert it to a CVS file.
